@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bartletthvacco.com/sitemap.xml
